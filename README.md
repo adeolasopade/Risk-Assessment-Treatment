@@ -3,7 +3,9 @@ This project draws on real consulting work, with all company details fully anony
 
 ---
 
-Led a targeted information security risk [assessment](https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing) for Luxburgers Limited, focusing on high-impact personnel, customer data, and POS systems. The goal was to identify critical operational threats, such as reliance on single individuals, unsecured communications, and procedural weaknesses, that could disrupt business continuity and compromise sensitive data.
+Led a targeted information security risk [assessment](https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing) for Luxburgers Limited, focusing on high-impact personnel, customer data, and POS systems.
+
+The goal was to identify critical operational threats, such as reliance on single individuals, unsecured communications, and procedural weaknesses, that could disrupt business continuity and compromise sensitive data.
 
 ---
 
@@ -20,7 +22,9 @@ The methodology was anchored in the ISO 27001:2022 framework.
 ## Practical Insights & Recommendations
 
 *   **Critical Single Point of Failure**: The General Manager was the sole custodian of supplier contacts and financial knowledge. **Recommendation**: Create a cloud-hosted supplier database, cross-train staff, and appoint alternate bank signatories.
+  
 *   **Human-Fuelled Insider Threat**: POS terminals were at high risk of tampering by disgruntled staff due to delayed salaries. **Recommendation**: Enforce a Hardware Security Policy, ensure timely salary payments, and provide targeted security awareness training.
+  
 *   **Systemic Procedural Violation**: Staff habitually used unapproved software and personal email. **Recommendation**: Implement software whitelisting, Data Loss Prevention (DLP) controls, and mandate automatic file syncing to secure cloud storage.
 
 ---
