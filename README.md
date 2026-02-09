@@ -1,9 +1,9 @@
 # Risk Assessment & Treatment
-This project draws on real consulting work, with all company details fully anonymised.
+*This project draws on real consulting work, with all company details fully anonymised.*
 
 ---
 
-Led a targeted information security risk [assessment](https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing) for Luxburgers Limited, focusing on high-impact personnel, customer data, and POS systems.
+Carried out a targeted information security risk [assessment](https://docs.google.com/spreadsheets/d/1FzfybpBZwp_3tXVhDafkDK0WY-o8o3ipbmyhMpHR7Ow/edit?usp=sharing) for Luxburgers Limited, focusing on high-impact personnel, customer data, and POS systems.
 
 The goal was to identify critical operational threats, such as reliance on single individuals, unsecured communications, and procedural weaknesses, that could disrupt business continuity and compromise sensitive data.
 
@@ -12,7 +12,7 @@ The goal was to identify critical operational threats, such as reliance on singl
 ## The Approach
 
 The methodology was anchored in the ISO 27001:2022 framework.
-*   We built the Information Asset Register (Sheet 6) to catalogue critical assets, from key personnel to POS machines.
+*   Built the Information Asset Register (Sheet 6) to catalogue critical assets, from key personnel to POS machines.
 *   These were mapped to relevant threats from the Threat Catalogue (Sheet 7).
 *   Risks were scored using the Risk Matrix (Sheets 4 & 5) and assigned named owners.
 *   The final Risk Assessment-Treatment Plan (Sheet 3) defined specific actions, linked them to ISO controls, and set deadlines.
